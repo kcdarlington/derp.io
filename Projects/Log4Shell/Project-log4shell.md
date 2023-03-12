@@ -1,6 +1,8 @@
 ---
-layout: page
-permalink: Projects/Log4Shell/home/
+layout: default
+title: Log4Shell
+nav_order: 2
+has_children: true
 ---
 
 <div style="text-align:center">
