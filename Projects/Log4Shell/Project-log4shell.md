@@ -3,7 +3,7 @@ layout: default
 title: Project Log4Shell!
 nav_order: 1
 #has_children: true
-parent: Projects
+parent: Project Log4Shell Home
 ---
 
 <div style="text-align:center">
