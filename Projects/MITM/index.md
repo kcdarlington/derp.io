@@ -4,7 +4,7 @@
 
 layout: home
 title: MITM
-nav_order: 2
+nav_order: 3
 parent: Projects
 has_children: true
 ---
