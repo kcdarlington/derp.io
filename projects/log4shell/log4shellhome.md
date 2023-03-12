@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Start
+title: Home
 nav_order: 1
 parent: Log4Shell
 ---
