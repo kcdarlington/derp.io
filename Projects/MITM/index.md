@@ -6,7 +6,7 @@ layout: home
 title: MITM
 nav_order:1
 parent: Projects
-
+has_children: true
 ---
 
 Hi
