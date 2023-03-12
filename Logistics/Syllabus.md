@@ -1,9 +1,8 @@
 ---
 layout: default
 title:  Syllabus
+nav_order: 2
 parent: Logistics
-nav_order: 1
-permalink: /Logistics/Syllabus/
 ---
 
 *********
