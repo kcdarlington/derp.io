@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Project Log4Shell Background
+title: Background
 nav_order: 2
 #has_children: true
-parent: Project Log4Shell Home
+parent: Log4Shell
 ---
   
 <div style="text-align:center">
