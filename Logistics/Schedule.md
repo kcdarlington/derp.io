@@ -1,9 +1,8 @@
 ---
 layout: page
 title:  Schedule
-permalink: /Logistics/Schedule/
 parent: Logistics
-nav_order: 2
+nav_order: 1
 ---
 
 <html>
