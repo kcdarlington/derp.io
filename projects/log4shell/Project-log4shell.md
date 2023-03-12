@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project Log4Shell!
+title: Home
 nav_order: 1
 parent: Log4Shell
 ---
