@@ -2,9 +2,9 @@
 layout: default
 title: Main in the Middle
 nav_order: 2
-#This creates table of contents. Create .md files and make the parent MITM (Specified in index.md)
+#This creates table of contents. Create .md files and make the parent Main in the Middle (Specified below)
 has_children: true
-parent: Projects
+parent: MITM
 ---
 
 Derpie Derp
