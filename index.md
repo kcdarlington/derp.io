@@ -1,14 +1,12 @@
 ---
-layout: default
-title: Home
-nav_order: 1
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+title: Index
+nav_order:1
 has_children: false
 ---
+<b> Overview </b>
 
-## The [Luque lab](https://www.luquelab.com) investigates the physical origin, ecology, and evolution of viruses.
-
-The lab's mission is to decipher the role that viruses played in the origin of life and use this knowledge to help humankind explore and habit new frontiers. The lab is part of the [Viral Information Institute](https://viralization.org), the [Computational Science Research Center](http://www.csrc.sdsu.edu), and the [Department of Mathematics and Statistics](https://math.sdsu.edu) at [San Diego State University](https://www.sdsu.edu).
-
-The current lab approach is based on computational modeling, combining mathematics, statistics, and biophysics with experimental collaborations. An intrinsic part of the lab's mission is training a new generation of interdisciplinary researchers with a solid foundation in scientific crafting, metacognition, and rapport.
-
-
+Introduction to Information Security is a graduate-level introductory course in information security. It teaches the basic concepts and principles of information security and the fundamental approaches to secure computers and networks. Its main topics include: security basics; security management and risk assessment; software security; operating systems security; database security; cryptography algorithms and protocols; network authentication and secure network applications; malicious malware; network threats and defenses; web security; mobile security; legal and ethical issues; and privacy.
