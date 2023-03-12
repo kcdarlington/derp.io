@@ -4,7 +4,7 @@
 
 layout: default
 title: home
-nav_order:1
+nav_order: 1
 has_children: false
 ---
 <div style="text-align:left">
