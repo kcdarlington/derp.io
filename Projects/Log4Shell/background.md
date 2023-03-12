@@ -1,4 +1,4 @@
-  ---
+---
 layout: default
 title: Project Log4Shell Background
 nav_order: 2
