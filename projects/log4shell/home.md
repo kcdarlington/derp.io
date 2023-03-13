@@ -1,13 +1,9 @@
 ---
 layout: default
-title: Home
+title: Learning Goals
 nav_order: 1
-parent: Log4Shell
+parent: Project Log4Shell!
 ---
-
-<div style="text-align:center">
-  <span style="color: #003057; font-size:36px; font-weight: bold">Project</span> <span style="color:#eeb211; font-size:36px; font-weight: bold"> Log4Shell</span><span style="color: #003057; font-size:36px; font-weight: bold">!</span>
-</div>
 
 <span style="color: #003057; font-size:24px; font-weight: bold;">Learning Goals of this Project:</span>
 
