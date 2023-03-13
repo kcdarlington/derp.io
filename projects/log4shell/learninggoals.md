@@ -3,6 +3,7 @@ layout: default
 title: Learning Goals
 nav_order: 1
 parent: Project Log4Shell!
+grand_parent: Projects
 ---
 
 <span style="color: #003057; font-size:24px; font-weight: bold;">Learning Goals of this Project:</span>
