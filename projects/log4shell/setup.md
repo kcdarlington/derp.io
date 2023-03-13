@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Setup
-nav_order: 5
+nav_order: 6
 parent: Project Log4Shell!
 grand_parent: Projects
 ---
