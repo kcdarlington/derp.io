@@ -3,6 +3,7 @@ layout: default
 title: Background
 nav_order: 2
 parent: Project Log4Shell!
+grand_parent: Projects
 ---
   
 <div style="text-align:center">
