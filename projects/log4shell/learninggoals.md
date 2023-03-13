@@ -10,13 +10,6 @@ grand_parent: Projects
 
 Students will learn about a real world critical Java exploit Log4Shell (https://nvd.nist.gov/vuln/detail/CVE-2021-44228 and https://www.randori.com/blog/cve-2021-44228/). This lab develops an understanding of sending malicious Java payloads via jndi/ldap lookups to exploit a vulnerable java application that uses a Log4j logger. A simple LDAP library will be used to assist students complete this lab.
 
-<span style="color: #f3172d; font-weight: bold; font-size:18px; text-decoration:underline">THIS IS A REAL WORLD CRITICAL VULNERABILITY THAT MOST VENDORS HAVE PATCHED BUT THERE STILL COULD BE APPLICATIONS WITHOUT THE PATCH. THIS PROJECT IS FOR EDUCATIONAL PURPOSES ONLY. ATTEMPTING THIS ON REAL APPLICATIONS COULD PUT YOU IN VIOLATION OF THE LAW AND GEORGIA TECH IS NOT RESPONSIBLE.
-
-<span style="color: #003057; font-size:24px; font-weight: bold;">The final deliverables:
-
-A single JSON formatted file will be submitted to Gradescope. This file should be named project_log4shell.json. A template can be found in the Home directory.
-See <a href="#submission">Submission Details</a> for more information.
-
 <span style="color: #003057; font-size:24px; font-weight: bold;">Important Reference Material:
 
 * [Project Introduction](https://www.youtube.com/watch?v=cmnUOYkI6A4) (Might not match the project requirements exactly)
