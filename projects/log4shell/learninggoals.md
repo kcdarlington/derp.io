@@ -31,7 +31,7 @@ See <a href="#submission">Submission Details</a> for more information.
 * If you would like to learn more about this exploit and Java Object Deserialization Vulnerabilities this paper written by Moritz Bechler is an excellent research paper: [Java Unmarshaller Security](https://github.com/mbechler/marshalsec/blob/master/marshalsec.pdf) and so is this BlackHat presentation: [A JOURNEY FROM JNDI/LDAP MANIPULATION TO REMOTE CODE EXECUTION DREAM LAND](https://www.blackhat.com/docs/us-16/materials/us-16-Munoz-A-Journey-From-JNDI-LDAP-Manipulation-To-RCE.pdf)
 
 <span style="color: #003057; font-size:24px; font-weight: bold;">Submission:    
-    <span style="color: black; font-size:18px; font-weight: bold;">Gradescope (autograded) - see <a href="#submission">Submission Details</a>
+    <span style="color: black; font-size:18px; font-weight: bold;">Gradescope (autograded) - see <a href="#submission">Submission Details</a> //TODO Update to working link
 
 <span style="color: #003057; font-size:24px; font-weight: bold;">Virtual Machine:
 <ul>(Note: downloads can be very slow when project first releases due to very high traffic in first few hours/day) </ul>
@@ -45,7 +45,6 @@ See <a href="#submission">Submission Details</a> for more information.
     * Same as Project Capture the flag or [VM Download](https://cs6035.s3.amazonaws.com/CS6035-Student-Spring-2023-v7.ova)
     * Username: log4j, Password: konami-code. You will need to log out of the user for the previous CTF project and log in to the log4j user.
 
-  
 ---
   
   
