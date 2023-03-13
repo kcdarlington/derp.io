@@ -7,7 +7,8 @@ grand_parent: Projects
 ---
 
 <span style="color: #003057; font-size:24px; font-weight: bold;">Virtual Machine:
-<ul>(Note: downloads can be very slow when project first releases due to very high traffic in first few hours/day) </ul>
+
+(Note: downloads can be very slow when project first releases due to very high traffic in first few hours/day)
 
 * Apple M1 based systems
   * You cannot complete this project on an M1 based system.
