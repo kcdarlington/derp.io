@@ -2,7 +2,7 @@
 layout: default
 title: Background
 nav_order: 2
-parent: Log4Shell
+parent: Project Log4Shell!
 ---
   
 <div style="text-align:center">
