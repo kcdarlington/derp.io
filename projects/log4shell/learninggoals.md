@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Learning Goals
-nav_order: 1
+nav_order: 2
 parent: Project Log4Shell!
 grand_parent: Projects
 ---
