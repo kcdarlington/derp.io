@@ -6,9 +6,7 @@ parent: Project Log4Shell!
 grand_parent: Projects
 ---
 
-<span id="submission" style="color: #003057; font-size:24px; font-weight: bold;">Submission Details:</span> 
-	
-<span style="font-weight: bold; text-decoration:underline">File submission instructions:</span>
+<span id="submission" style="color: #003057; font-size:24px; font-weight: bold;">File submission instructions:</span> 
   
 This project needs to be submitted via gradescope. Navigate to the course in Canvas, click ‘Gradescope’, click ‘Project Log4Shell’ and submit there. 
 
