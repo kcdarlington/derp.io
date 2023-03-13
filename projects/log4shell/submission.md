@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Submission
-nav_order: 4
+nav_order: 3
 parent: Project Log4Shell!
 grand_parent: Projects
 ---
